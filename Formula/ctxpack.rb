@@ -1,9 +1,9 @@
 class Ctxpack < Formula
   desc "Pack a repository into one LLM-ready document that fits the context window"
   homepage "https://github.com/la2278647-arch/ctxpack"
-  url "https://github.com/la2278647-arch/ctxpack/archive/refs/tags/v0.1.13.tar.gz"
-  sha256 "9037f475241cceb7cf2f249e14d8804cdace3fb003799d839813f77fa60f90e6"
-  version "0.1.13"
+  url "https://github.com/la2278647-arch/ctxpack/archive/refs/tags/v0.1.14.tar.gz"
+  sha256 "34d3d3fff09ca1d403e3386674d60e732baa4136e14a665670991db25c2ae149"
+  version "0.1.14"
   license "MIT"
   head "https://github.com/la2278647-arch/ctxpack.git", branch: "main"
 
